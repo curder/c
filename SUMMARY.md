@@ -5,3 +5,4 @@
 * [常量](constant.md)
 * [标识符基本概念](Identifier_basic_concept.md)
 * [标示符命名规范](identify_criterion.md)
+* [注释的基本概念](annotations_basic.md)
