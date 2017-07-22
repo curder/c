@@ -3,3 +3,5 @@
 * [数据类型](basic_type.md)
 * [格式化输出语句](printf.md)
 * [常量](constant.md)
+* [标识符基本概念](Identifier_basic_concept.md)
+* [标示符命名规范](identify_criterion.md)
