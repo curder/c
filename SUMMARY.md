@@ -8,3 +8,5 @@
 * [格式化输出语句](printf.md)
 * [常量](constant.md)
 * [变量](var.md)
+* [printf函数](printf_function.md)
+* [scanf函数](scanf_function.md)
