@@ -12,4 +12,7 @@
 * [scanf函数](scanf_function.md)
 * [运算符](operator.md)
     * [算数运算符](arithmetic_operator.md)
+    * [赋值运算符](assignment_operator.md)
+    * [复合赋值运算符](composite_assignment_operator.md)
+    * [自增运算符](self-increment_operator.md)
 * [类型转换](type_change.md)
