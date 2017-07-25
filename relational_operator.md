@@ -33,8 +33,10 @@ int a = 4, b = 10;
 int result = a > b; //0
 result = a == b; //0
 result = a < b; //1
-result = a + b > b; //1
+result = a + b > b; // 1
 ```
+
+> 算数运算符的优先级大于关系型运算符。
 
 # 关系运算符优先级和结合性
 
