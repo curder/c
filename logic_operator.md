@@ -126,8 +126,7 @@ printf("result = %d", result); // 输出结果: 2
 - 算术运算符与逻辑运算符优先级
 
 ```
-int result = 3 + 3 && 0 + 1;
-//          (3 + 3) && (0 + 1);
+int result = 3 + 3 && 0 + 1; //   (3 + 3) && (0 + 1);
 printf("result = %d", result); // 输出结果: 1
 
 ```
@@ -139,7 +138,7 @@ printf("result = %d", result); // 输出结果: 1
 int result = 3>5 || 2<4 && 6<1;
 //          (3>5) || (2<4) && (6<1)
 //            0   ||   1   &&  0
-//                     1 && 0
+//                       1 && 0
 printf("result = %d", result); // 输出结果: 0
 
 ```
