@@ -15,5 +15,7 @@
     * [赋值运算符](assignment_operator.md)
     * [复合赋值运算符](composite_assignment_operator.md)
     * [自增运算符](self-increment_operator.md)
-    * [sizeof运算符](sizeof运算符.md)
+    * [sizeof运算符](sizeof_operator.md)
+    * [逗号运算符](comma_operator.md)
+    * [关系运算符](relational_operator.md)
 * [类型转换](type_change.md)
