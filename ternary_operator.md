@@ -63,3 +63,17 @@ a>b?a:(c>d?c:d)
 1. 定义变量 num1,num2,num3,max
 2. 先比较 num1 和 num2,比较的结果存放到max 
 3. max和第三个数比较
+
+```
+
+#include<stdio.h>
+int main(){
+    int num1, num2, num3;
+    printf("请输入三个整型，使用逗号分割，并以回车结束输入\n");
+    scanf("%i,%i,%i",&num1, &num2, &num3);
+    int temp = num1 > num2 ? num1 : num2;
+    int resault = temp > num3 ? temp : num3;
+    printf("你输入的最大整型是：%i\n\n" , resault);
+    return 0;
+}
+```
