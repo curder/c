@@ -65,7 +65,6 @@ a>b?a:(c>d?c:d)
 3. max和第三个数比较
 
 ```
-
 #include<stdio.h>
 int main(){
     int num1, num2, num3;
