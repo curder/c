@@ -22,3 +22,4 @@
     * [三元运算符](ternary_operator.md)
 * [类型转换](type_change.md)
 * [if语句](if_statement.md)
+* [switch语句](switch_statement.md)
