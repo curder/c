@@ -1,4 +1,4 @@
-* [空白目录](default.md)
+* [空白目录](README.md)
 * [关键字](keywords.md)
 * [标识符基本概念](Identifier_basic_concept.md)
 * [标示符命名规范](identify_criterion.md)
