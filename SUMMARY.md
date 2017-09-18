@@ -25,5 +25,5 @@
 * [类型转换](type_change.md)
 * [if语句](if_statement.md)
 * [switch语句](switch_statement.md)
-* [while_statement.md](while循环)
+* [while循环](while_statement.md)
 
